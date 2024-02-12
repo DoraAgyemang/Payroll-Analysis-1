@@ -17,5 +17,10 @@ This project is about employee payroll analysis for the month of January which I
   ![image](https://github.com/MYZDEE/Payroll-Analysis-1/assets/128803445/bd280ab2-6c38-41f2-8547-49ccb4780533)<p>
 
   See below for the employee salary<p>
-  ![image](https://github.com/MYZDEE/Payroll-Analysis-1/assets/128803445/1b6bbe51-c92d-452f-9d6d-21eef0e4bb01)
-
+  ![image](https://github.com/MYZDEE/Payroll-Analysis-1/assets/128803445/1b6bbe51-c92d-452f-9d6d-21eef0e4bb01)<p>
+###Employee Overtime pay
+  The minimum hours for an employee to work is 40 hours. Employees that work for more than 40 hours gets an overtime bonus. That is half of the hourly rate for every 1hour overtime 
+  worked. The number of overtime hours is multiplied by the hourly rate and divided by 2. Absolute referencing was used to copy the formula for the rest of the cells <p>
+  ```
+  =0.5*$C4*I4
+  ```
