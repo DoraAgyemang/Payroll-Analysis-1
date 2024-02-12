@@ -24,3 +24,4 @@ This project is about employee payroll analysis for the month of January which I
   ```
   =0.5*$C4*I4
   ```
+![image](https://github.com/MYZDEE/Payroll-Analysis-1/assets/128803445/7471a1c2-45f9-4f7c-b569-9245f9ae12ff)
