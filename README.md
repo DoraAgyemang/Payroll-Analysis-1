@@ -16,5 +16,6 @@ This project is about employee payroll analysis for the month of January which I
   ```
   ![image](https://github.com/MYZDEE/Payroll-Analysis-1/assets/128803445/bd280ab2-6c38-41f2-8547-49ccb4780533)<p>
 
-  See below for the employee salary
-  
+  See below for the employee salary<p>
+  ![image](https://github.com/MYZDEE/Payroll-Analysis-1/assets/128803445/1b6bbe51-c92d-452f-9d6d-21eef0e4bb01)
+
