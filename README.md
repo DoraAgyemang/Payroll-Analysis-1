@@ -30,4 +30,4 @@ This project is about employee payroll analysis for the month of January which I
 =N4+S4
 ```
 ![image](https://github.com/MYZDEE/Payroll-Analysis-1/assets/128803445/8890d23b-3683-48c9-a006-d314a4ebd097)<p>
-The employee salary for each month was summed to get the total salary the whole month
+The employee salary for each month was summed to get the total salary for the whole month
